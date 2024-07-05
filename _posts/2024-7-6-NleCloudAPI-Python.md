@@ -171,7 +171,7 @@ def Strategy_Info_Get(API_Token, Device_ID):
 
 
 '''
-description: 
+description: 使用命令去控制设备
 param {*} API_Token
 param {*} Device_ID
 param {*} Target_Tag
