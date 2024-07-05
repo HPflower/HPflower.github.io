@@ -1,7 +1,7 @@
 ---
 title: Python简单实现新大陆云平台API调用
 date: 2024-7-6 2:19:00 +0800
-categories: [Blog, Pyhton]
+categories: [Blog, Python]
 tags: [Python,新大陆云平台,API]
 ---
 
